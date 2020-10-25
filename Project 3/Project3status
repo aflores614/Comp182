@@ -1,0 +1,14 @@
+Andres Flores
+Computer 282
+Project 3
+
+      Splay tree 
+      
+         -Insert,Find and delete implementation
+         -Able to read all for four text files
+         -Able to compile all three file but can't run it
+             " Exception in thread "main" java.lang.NullPointerException
+    	         at SplayTree.Splay(SplayTree.java:116)
+    	         at SplayTree.insert(SplayTree.java:20)
+    	         at Splay.main(Splay.java:31)  "
+    
